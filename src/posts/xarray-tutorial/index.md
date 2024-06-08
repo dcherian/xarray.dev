@@ -1,5 +1,5 @@
 ---
-title: 'Major updates to the Xarray tutorial'
+title: 'The revamped Xarray tutorial'
 date: '2024-05-31'
 authors:
   - name: Deepak Cherian
